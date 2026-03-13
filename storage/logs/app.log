@@ -1,0 +1,67 @@
+[2026-01-26 16:10:45] [404] Controlador no encontrado
+[2026-01-26 16:10:54] [404] Controlador no encontrado
+[2026-01-26 18:05:22] [404] Acción no encontrada
+[2026-01-26 18:07:00] [404] Acción no encontrada
+[2026-01-26 19:07:57] [404] Controlador no encontrado
+[2026-01-26 19:08:13] [404] Controlador no encontrado
+[2026-01-26 19:08:17] [404] Controlador no encontrado
+[2026-01-26 19:08:20] [404] Controlador no encontrado
+[2026-01-26 19:09:15] [404] Controlador no encontrado
+[2026-01-26 19:15:25] [404] Controlador no encontrado
+[2026-01-26 19:15:28] [404] Controlador no encontrado
+[2026-01-26 19:15:31] [404] Controlador no encontrado
+[2026-01-26 19:15:36] [404] Controlador no encontrado
+[2026-01-26 19:15:39] [404] Controlador no encontrado
+[2026-01-26 19:15:46] [404] Controlador no encontrado
+[2026-01-26 19:16:09] [404] Controlador no encontrado
+[2026-01-26 19:16:11] [404] Controlador no encontrado
+[2026-01-26 20:09:18] [404] Controlador no encontrado
+[2026-01-26 20:09:35] [404] Controlador no encontrado
+[2026-01-26 20:09:45] [404] Controlador no encontrado
+[2026-01-26 20:10:08] [404] Controlador no encontrado
+[2026-01-26 20:10:09] [404] Controlador no encontrado
+[2026-01-26 20:13:54] [404] Controlador no encontrado
+[2026-01-26 20:15:35] [404] Controlador no encontrado
+[2026-01-26 20:15:40] [404] Controlador no encontrado
+[2026-01-26 20:20:03] [404] Controlador no encontrado
+[2026-01-26 20:20:06] [404] Controlador no encontrado
+[2026-01-26 20:21:27] [404] Controlador 'New_SGAController' no encontrado
+[2026-01-26 20:21:29] [404] Controlador 'New_SGAController' no encontrado
+[2026-01-26 20:23:19] [404] Controlador 'New_SGAController' no encontrado
+[2026-01-26 20:23:22] [404] Controlador 'New_SGAController' no encontrado
+[2026-01-26 20:26:26] [404] Controlador 'PublicController' no encontrado
+[2026-01-26 20:34:50] [404] Controlador 'PublicController' no encontrado
+[2026-01-26 20:53:49] [404] Controlador 'PublicController' no encontrado
+[2026-01-26 20:58:02] [404] Controlador 'LoginController' no encontrado
+[2026-01-26 20:58:05] [404] Controlador 'LoginController' no encontrado
+[2026-01-26 21:02:03] [404] Controlador 'New_SGAController' no encontrado
+[2026-01-26 21:08:31] [404] Controlador no encontrado
+[2026-01-26 21:08:35] [404] Controlador no encontrado
+[2026-01-26 21:09:12] [404] Controlador no encontrado
+[2026-01-26 21:10:17] [404] Controlador New_SGAController no encontrado
+[2026-03-09 18:56:49] [404] Acción no encontrada
+[2026-03-09 18:57:34] [404] Acción no encontrada
+[2026-03-09 18:57:46] [404] Controlador no encontrado
+[2026-03-09 18:57:51] [404] Controlador no encontrado
+[2026-03-09 18:57:54] [404] Controlador no encontrado
+[2026-03-10 21:24:12][::1][ERROR] PHP Error [8]: session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New_SGA\app\controllers\AuthController.php:41
+[2026-03-10 21:24:12][::1][INFO] LOGIN OK usuario=admin
+[2026-03-10 21:24:12][::1][ERROR] Class "Auth" not found | C:\xampp\htdocs\New_SGA\public\index.php:13
+[2026-03-10 21:24:12][::1][500] Class "Auth" not found
+[2026-03-10 21:25:59][::1][ERROR] Class "Auth" not found | C:\xampp\htdocs\New_SGA\public\index.php:14
+[2026-03-10 21:25:59][::1][500] Class "Auth" not found
+[2026-03-10 21:26:35][::1][INFO] LOGOUT usuario=admin
+[2026-03-10 21:26:40][::1][ERROR] PHP Error [8]: session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\New_SGA\app\controllers\AuthController.php:41
+[2026-03-10 21:26:40][::1][INFO] LOGIN OK usuario=test
+[2026-03-10 21:45:27][::1][INFO] LOGOUT usuario=test
+[2026-03-10 21:45:37][::1][INFO] LOGIN OK usuario=test
+[2026-03-10 21:45:56][::1][INFO] LOGOUT usuario=test
+[2026-03-10 21:49:48][::1][INFO] LOGIN OK usuario=admin
+[2026-03-10 21:50:37][::1][404] Controlador no encontrado: Controller
+[2026-03-10 21:50:53][::1][INFO] LOGOUT usuario=admin
+[2026-03-10 21:58:33][::1][INFO] LOGIN OK usuario=test
+[2026-03-10 21:58:47][::1][INFO] LOGOUT usuario=test
+[2026-03-10 23:17:39][::1][INFO] LOGIN OK usuario=test
+[2026-03-10 23:19:23][::1][INFO] LOGOUT usuario=test
+[2026-03-12 16:06:03][::1][INFO] LOGIN OK usuario=admin
+[2026-03-12 16:06:29][::1][404] Controlador no encontrado: FotosController
